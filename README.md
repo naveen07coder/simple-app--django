@@ -1,0 +1,2 @@
+# simple-app--django
+django
